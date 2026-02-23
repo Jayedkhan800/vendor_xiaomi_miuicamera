@@ -3,7 +3,8 @@
 **Clone**
 
 ```bash
-git clone https://github.com/Jayedkhan800/vendor_xiaomi_miuicamera.git vendor/xiaomi/miuicamera```
+git clone https://github.com/Jayedkhan800/vendor_xiaomi_miuicamera.git vendor/xiaomi/miuicamera
+```
 
 ### Supported devices
 * agate
@@ -12,9 +13,9 @@ git clone https://github.com/Jayedkhan800/vendor_xiaomi_miuicamera.git vendor/xi
 * alioth
 * aliothin
 * amber
-* angelica
-* angelicain
-* angelican
+* **angelica**
+* **angelicain**
+* **angelican**
 * apollo
 * apollo_pro
 * ares
@@ -30,7 +31,7 @@ git clone https://github.com/Jayedkhan800/vendor_xiaomi_miuicamera.git vendor/xi
 * cannon
 * cannong
 * cas
-* cattail
+* **cattail**
 * cetus
 * cezanne
 * chopin
@@ -41,7 +42,7 @@ git clone https://github.com/Jayedkhan800/vendor_xiaomi_miuicamera.git vendor/xi
 * courbetin
 * curtana
 * curtanacn
-* dandelion
+* **dandelion**
 * elish
 * enuma
 * eos
