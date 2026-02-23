@@ -1,5 +1,9 @@
 # MiuiCamera
 
+**Clone**
+
+``` git clone https://github.com/Jayedkhan800/vendor_xiaomi_miuicamera.git vendor/xiaomi/miuicamera```
+
 ### Supported devices
 * agate
 * agategl
